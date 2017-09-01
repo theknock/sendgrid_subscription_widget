@@ -1,8 +1,8 @@
 // Change the url to the domain of your app
 exports.url = 'https://theknock-email-opt-in.herokuapp.com/confirmEmail';
 
-exports.senderEmail = "tribe@theknock.com";
-exports.senderName = "TheKnock";
+exports.senderEmail = "theknocktribe@gmail.com";
+exports.senderName = "TheKnock Tribe";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
 // or a string with the listId to add to a specific list
