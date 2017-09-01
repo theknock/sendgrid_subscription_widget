@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'https://theknock-email-opt-in.herokuapp.com/confirmEmail';
+exports.url = 'https://theknock-email-opt-in.herokuapp.com/';
 
 exports.senderEmail = "theknocktribe@gmail.com";
 exports.senderName = "TheKnock Tribe";
